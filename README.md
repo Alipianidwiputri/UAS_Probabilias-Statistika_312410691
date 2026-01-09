@@ -18,6 +18,11 @@
 
 ---
 
+**Link Video Penjelasan**
+
+
+---
+
 ##  Deskripsi Project
 
 Project ini menggunakan Machine Learning untuk memprediksi apakah seseorang layak mendapatkan pinjaman atau tidak berdasarkan data historis pemohon. Algoritma yang digunakan adalah **Support Vector Machine (SVM)** dengan kernel RBF yang efektif untuk klasifikasi binary dan dapat menangani data non-linear.
